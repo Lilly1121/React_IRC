@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Registration Form</title>
+    <link rel="stylesheet" href="registration.css">
+    
+</head>
+<body>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="signup.html">Sign Up</a>
+        <a href="login.html">Login</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    
+    <form>
+        <h2>Registration Form</h2>
+        <input type="text" placeholder="First Name" required id="username">
+        <input type="text" placeholder="Last Name" required>
+
+        <input type="email" placeholder="Email" required>
+        <input type="password" placeholder="Password" required>
+        <input type="password" placeholder="Confirm Password" required>
+        <input type="date" placeholder="Date of Birth" required>
+        <select placeholder="Gender" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+        </select>
+        <label>
+
+    <input type="checkbox" required> I agree to the terms and conditions
+        </label>
+        <button type="button" onclick="register()">Register</button>
+    </form>
+
+    <script>
+        function register() {
+            var firstName = document.getElementById('username').value;
+            var lastName = document.querySelector('input[placeholder="Last Name"]').value;
+            var email = document.querySelector('input[placeholder="Email"]').value;
+            var password = document.querySelector('input[placeholder="Password"]').value;
+            var confirmPassword = document.querySelector('input[placeholder="Confirm Password"]').value;
+            var dob = document.querySelector('input[placeholder="Date of Birth"]').value;
+            var gender = document.querySelector('select').value;
+            if(password==confirmPassword)
+            {
+                alert("password matched! login is successfull...")
+             return;
+            }
+            
+ 
+            var message = "Registration Successful!\n\n" +
+                            "First Name: " + firstName + "\n" +
+                            "Last Name: " + lastName + "\n" +
+                            "Email: " + email + "\n" +
+                            "Password: " + password + "\n" +
+                            "Confirm Password: " + confirmPassword + "\n" +
+                            "Date of Birth: " + dob + "\n" +
+                            "Gender: " + gender;
+
+            alert(message);
+        }
+    </script>
+</body>
+
+</html>
