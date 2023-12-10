@@ -1,10 +1,8 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 10px;
-    padding: 10px;
+    margin: 0; /* Reset default margin */
+    padding: 0; /* Reset default padding */
     background-color: rgb(72, 155, 177);
-    
-    
 }
 
 .login-container {
@@ -16,9 +14,10 @@ body {
 
 .login-form {
     background-color: #4592d1;
-    padding: 40px;
-    border-radius: 49px;
-    box-shadow: 0 0 10px rgb(200, 193, 193);
+    padding: 30px; /* Adjust based on your content and design */
+    margin: 30px; /* Adjust based on your layout and design */
+    border-radius: 20px; /* Adjust based on your preference */
+    box-shadow: 0 0 10px rgb(160, 210, 249);
 }
 
 h2 {
@@ -34,7 +33,7 @@ label {
 
 input {
     width: 100%;
-    padding: 8px;
+    padding: 10px; /* Adjust based on your preference */
     margin-bottom: 10px;
     box-sizing: border-box;
     border: 1px solid #ccc;
@@ -43,7 +42,7 @@ input {
 
 button {
     width: 100%;
-    padding: 10px;
+    padding: 12px; /* Adjust based on your preference */
     background-color: #3245b0;
     color: #fff;
     border: none;
