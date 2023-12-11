@@ -25,8 +25,8 @@ function App() {
             <button type="submit">Login</button>
            
                 <a href="#forgot-password">Forgot Password?</a>
-            
-
+      
+              
         </form>
 
     </div>

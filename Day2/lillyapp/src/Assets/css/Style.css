@@ -3,18 +3,20 @@ body {
     margin: 0; /* Reset default margin */
     padding: 0; /* Reset default padding */
     background-color: rgb(72, 155, 177);
+    box-sizing: border-box;
 }
 
 .login-container {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 10h;
 }
 
 .login-form {
+    box-sizing: border-box;
     background-color: #4592d1;
-    padding: 30px; /* Adjust based on your content and design */
+    padding: 1%; /* Adjust based on your content and design */
     margin: 30px; /* Adjust based on your layout and design */
     border-radius: 20px; /* Adjust based on your preference */
     box-shadow: 0 0 10px rgb(160, 210, 249);
