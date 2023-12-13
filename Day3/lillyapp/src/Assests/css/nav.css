@@ -1,7 +1,18 @@
-body {
+
+  *
+  {
+    box-sizing: border-box;
     margin: 0;
-    font-family: 'Arial', sans-serif;
+    padding: 0;
   }
+/* .bg
+{
+   background-size: cover;
+   background-repeat: no-repeat;
+   min-height: 50vh;
+   background-position: center;
+   padding-top: 4rem;
+} */
 
   nav {
     background-color: #333;
@@ -31,4 +42,14 @@ body {
       text-align: left;
     }
   }
+  .slider {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+  }
   
+  .slider img {
+    aspect-ratio: 3 / 4;
+    flex: 0 0 300px;
+    object-fit: cover;
+  }
