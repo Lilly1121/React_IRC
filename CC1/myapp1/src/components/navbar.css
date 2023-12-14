@@ -39,6 +39,13 @@ a {
   text-transform: uppercase;
   order: -1;
 }
+.nav__brand img {
+  max-width: 50px; /* Adjust the maximum width as needed */
+   background-color: rgb(209, 196, 209);
+  max-height: 50px; /* Adjust the maximum height as needed */
+
+}
+
 
 .nav__menu {
   display: flex;

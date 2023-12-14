@@ -4,12 +4,14 @@ import Navbar from './components/navbar';
 import Login from './components/Login';
 import Signup from './components/Signup';
 
-const Home = () => <div><center><br></br><br></br><h1>Welcome</h1></center></div>;
+const Home = () => <div><center><br></br><br></br><br>
+</br><br></br><br></br><br></br><br></br><h1 >
+"Embark on a Seamless Journey to Vehicle Service Excellence!!!</h1></center></div>;
 
 const App = () => {
   return (
     <Router>
-      <div>
+      {/* <div> */}
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -17,7 +19,7 @@ const App = () => {
           <Route path="/signup" element={<Signup />} />
           {/* Add other routes if needed */}
         </Routes>
-      </div>
+      {/* </div> */}
     </Router>
   );
 };
