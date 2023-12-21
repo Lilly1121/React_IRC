@@ -1,0 +1,30 @@
+{
+  "User": [
+    {
+      "username": "Lilly",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username": "Hari",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username": "priya",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "username":"Anis",
+      "password":1234,
+      "id":9
+        }
+  ],
+  "producrs": [
+    {
+      "pid": 1,
+      "pname": "apple"
+    }
+  ]
+}
