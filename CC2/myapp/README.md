@@ -1,70 +1,12 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (454)](https://github.com/Lilly1121/React_IRC/assets/125294900/2bd70f06-3d4e-47f6-8e37-d321b651007b)
+![Screenshot (455)](https://github.com/Lilly1121/React_IRC/assets/125294900/41251993-8aab-49b6-88bd-b6941969ff9e)
+![Screenshot (456)](https://github.com/Lilly1121/React_IRC/assets/125294900/8dfac4d1-e647-4572-b217-1b80772a4de3)
+![Screenshot (457)](https://github.com/Lilly1121/React_IRC/assets/125294900/33be3552-c43c-4d52-b178-7ee62a3b69fd)
+![Screenshot (458)](https://github.com/Lilly1121/React_IRC/assets/125294900/8801a95e-c8c0-4fb4-88bc-7a15a2471fe5)
+![Screenshot (459)](https://github.com/Lilly1121/React_IRC/assets/125294900/31fee98c-a8cd-489f-b59b-6ee9269e794d)
+![Screenshot (460)](https://github.com/Lilly1121/React_IRC/assets/125294900/3eeb86f6-8003-4b61-a21d-826be4911947)
+![Screenshot (461)](https://github.com/Lilly1121/React_IRC/assets/125294900/a02293dd-35cb-4359-ac35-ea43a2ed973b)
+![Screenshot (462)](https://github.com/Lilly1121/React_IRC/assets/125294900/e5f95b6c-d618-48e1-8756-df1cab06f5a8)
+![Screenshot (463)](https://github.com/Lilly1121/React_IRC/assets/125294900/321b19b1-8e4a-4c8b-97f1-29d4b8b3f67a)
+![Screenshot (464)](https://github.com/Lilly1121/React_IRC/assets/125294900/b644c9e4-d955-4ce2-8d90-39c27f9c26c9)
+![Screenshot (465)](https://github.com/Lilly1121/React_IRC/assets/125294900/ea4899d2-2ad6-4881-9a5d-715f08bf9c6d)
